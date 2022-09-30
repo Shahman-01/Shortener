@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1edc9fdf-c2a8-43ea-ad3b-5e6db1f3687c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HashMapStorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/strategy/HashMapStorageStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Shortener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Shortener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/strategy/StorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/strategy/StorageStrategy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +52,7 @@
       <module name="Shortener" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,7 +76,7 @@
       <updated>1664481097997</updated>
       <workItem from="1664481099384" duration="7608000" />
       <workItem from="1664550732817" duration="613000" />
-      <workItem from="1664559781479" duration="2279000" />
+      <workItem from="1664559781479" duration="8015000" />
     </task>
     <servers />
   </component>

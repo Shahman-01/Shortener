@@ -1,4 +1,4 @@
-package org.example;
+package org.example.strategy;
 
 import org.example.strategy.StorageStrategy;
 
@@ -13,7 +13,7 @@ public class HashMapStorageStrategy implements StorageStrategy {
 	}
 
 	@Override
-	public boolean containValue(String value) {
+	public boolean containsValue(String value) {
 		return data.containsValue(value);
 	}
 

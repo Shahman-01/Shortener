@@ -3,7 +3,7 @@ package org.example.strategy;
 public interface StorageStrategy {
 	boolean containsKey(Long key);
 
-	boolean containValue(String value);
+	boolean containsValue(String value);
 
 	void put(Long key, String value);
 
